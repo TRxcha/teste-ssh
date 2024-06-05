@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+body{
+    zoom: 100%;
+    color: blue;
+    margin-left: 100px;
+    background-image: url("../IMG/aspaszinho.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: red
+}
+h1, h2, h3{
+    font-family: "Roboto Slab", serif;
+}
